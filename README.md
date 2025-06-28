@@ -14,6 +14,10 @@
 - 💡 Clean and responsive user interface
 
 ---
+## 📸 Screenshot
+![image](https://github.com/user-attachments/assets/6392a1e0-4ea9-4b72-8904-8ea90578bf67)
+
+---
 
 ## ⚙️ Technologies Used
 
